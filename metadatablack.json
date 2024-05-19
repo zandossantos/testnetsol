@@ -1,25 +1,24 @@
 {
-    "name": "Block Chain Bidder",
-    "symbol": "BCB",
-    "description": "A test NFT for the Solana testnet",
-    "image": "https://github.com/zandossantos/testnetsol/blob/main/black.jpeg",
-    "attributes": [
-      {
-        "trait_type": "Background",
-        "value": "black"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Green"
-      }
-    ],
-    "properties": {
-      "files": [
-        {
-          "uri": "https://github.com/zandossantos/testnetsol/blob/main/black.jpeg",
-          "type": "image/jpeg"
-        }
-      ]
+  "name": "Block Chain Bidder Black",
+  "symbol": "BCB",
+  "description": "A test NFT for the Solana testnet",
+  "image": "https://raw.githubusercontent.com/zandossantos/testnetsol/main/black.jpeg",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "black"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green"
     }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/zandossantos/testnetsol/main/black.jpeg",
+        "type": "image/jpeg"
+      }
+    ]
   }
-  
+}
