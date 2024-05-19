@@ -1,0 +1,25 @@
+{
+    "name": "Block Chain Bidder",
+    "symbol": "BCB",
+    "description": "A test NFT for the Solana testnet",
+    "image": "https://github.com/zandossantos/testnetsol/blob/main/blue.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "blue"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Green"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://github.com/zandossantos/testnetsol/blob/main/blue.png",
+          "type": "image/png"
+        }
+      ]
+    }
+  }
+  
